@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Arafat Helal</h1>
 
-<!--
-**arafathelal/arafathelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at American International University-Bangladesh (AIUB)  
+💻 Aspiring Full Stack Developer  
+🚀 Passionate about building real-world web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Full Stack Development**
+- 💡 Interested in **Web Apps, AI, and Problem Solving**
+- 🛠️ Love turning ideas into real-world applications
+- 🎯 Goal: Become a skilled Software Engineer & build impactful tech solutions
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,python,html,css,tailwind,react,nodejs,mysql,git,nextjs,vite" height="60" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/arafathelal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://x.com/arafathelal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:arafathelal7@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+</div>
+
+
+
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 AutoPulse
+A full-featured car service management platform  
+- Vehicle management  
+- Service booking (home, drop-off, emergency)  
+- Parts ordering system  
+- Admin & repair shop dashboards  
+
+---
+
+### 💊 Pharmacy Management System
+A system to manage medicines, sales, and inventory efficiently  
+
+---
+
+### 🌐 Portfolio Website  
+🔗 https://arafathelal.github.io/eportfolio  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=arafathelal&show_icons=true&theme=tokyonight" height="150"/> -->
+  <img src="https://streak-stats.demolab.com/?user=arafathelal&theme=tokyonight" height="150"/>
+</div>
+
+
+---
+
+## 🟩 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafathelal/arafathelal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafathelal/arafathelal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arafathelal/arafathelal/output/pacman-contribution-graph.svg">
+</picture>
+
+---
