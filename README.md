@@ -1,3 +1,13 @@
+<!-- <p>
+  <img src="https://komarev.com/ghpvc/?username=arafathelal&label=Profile%20Views&color=3246a8&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/arafathelal?label=Followers&style=social" />
+</p> -->
+
+![](https://komarev.com/ghpvc/?username=arafathelal&style=for-the-badge)
+<img src = "https://raw.githubusercontent.com/arafathelal/arafathelal/refs/heads/main/arafat-banner.png"/>
+
+
+
 <h1 align="center">Hey 👋 I'm Arafat Helal</h1>
 
 🎓 CSE Student at American International University-Bangladesh (AIUB)  
