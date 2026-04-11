@@ -8,7 +8,10 @@
 
 
 
-<h1 align="center">Hey 👋 I'm Arafat Helal</h1>
+<!-- <h1 align="center">Hey 👋 I'm Arafat Helal</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Arafat+Helal;Aspiring+Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects" />
+</p>
 
 🎓 CSE Student at American International University-Bangladesh (AIUB)  
 💻 Aspiring Full Stack Developer  
